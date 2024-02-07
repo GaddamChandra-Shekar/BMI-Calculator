@@ -1,0 +1,50 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #1199bb;
+}
+span{
+    color: red;
+}
+.contaienr{
+    position: absolute;
+    width: 200px;
+    top: 45%;
+    left: 50%;
+    color: white;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    background-color: black;
+    border-radius: 5px;
+    box-shadow: rgb(38, 58, 77) 0px 20px 30px -10px;
+
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color: black;
+    text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input{
+    height: 25px;
+    border-width: 0px;
+    border-radius: 5px;
+
+
+}
+button{
+    margin-top: 15px;
+    background-color: white;
+    height: 35px;
+    width: 100px;
+    border-radius: 10px;
+    border-width: 0px;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    cursor: pointer;
+}
